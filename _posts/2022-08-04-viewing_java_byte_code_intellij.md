@@ -11,4 +11,4 @@ since JAVA 9+.  The series looks at the new features and the impact that they ha
 
 IntelliJ has a built in Byte Code decomplier that can take any .class file and deomplies to byte code.
 
-![alt text](https://github.com/lfc-one/dyno_blog/blob/main/_posts/_images/view_byte_code.png?raw=true)
+![alt text](https://github.com/lfc-one/dyno_blog/blob/main/docs/assets/view_byte_code.png?raw=true)
