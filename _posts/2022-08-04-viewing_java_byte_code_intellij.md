@@ -13,6 +13,6 @@ IntelliJ has a built in Byte Code decomplier that can take any .class file and d
 
 Selet **View->Show Byte Code**, this will display the byte code for the current java class or .class file that is being displayed.
 
-![View Byte Code in IntelliJ](https://github.com/lfc-one/dyno_blog/blob/main/images/view_byte_code.png?raw=true)
+![View Byte Code in IntelliJ](https://github.com/lfc-one/ramberlings/blob/main/images/view_byte_code.png?raw=true)
 
 Next up will be looking at some of the output and how it helps us understand better the new features and changes in JAVA 9 and beyond.
