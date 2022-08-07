@@ -37,5 +37,9 @@ In Java 8 this will produce byte code that uses **StringBuilder** to append each
 > ]  
 > ASTORE 2  
   
-As the JEP states this was done to allow for optimizing of the *String* concatenation handlers, and by using *invokeDynamic* this means any future changes will have not impact to the byte code making changes hidden from the call site.
+As the JEP states this was done to allow for optimizing of the *String* concatenation handlers, and by using *invokeDynamic* this means any future changes will have not impact to the byte code making changes hidden from the call site. You should investigate *invokeDynamic* further if you want to understand how this is done.
+
+## Concatenation of Strings in loops
+
+What impact do loops have on the byte code generated?   
 
